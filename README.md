@@ -1,7 +1,7 @@
 ### Oiii eu sou a lipesilva1, criador de conteúdo de programação e tecnologia!
 
-- HOJE TRABALHO COM FRONT-END
-- ESTUDANDO TYPESCRIPT
+- HOJE  ESTUDO HTML.CSS.JAVA.PHP.JAVASCRIPT
+- ESTUDANDO JAVASCRIPT
 - PONOUNS:ELE/DELE
 - COTATE-ME-NO-EMAIL:lipe49848@gmail.com
 <div align="center">
