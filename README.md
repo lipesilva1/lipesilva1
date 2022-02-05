@@ -1,4 +1,4 @@
-### Oiii eu sou a lipesilva1, criador de conteúdo de programação e tecnologia!
+### Oiii eu sou o lipesilva1, criador de conteúdo de programação e tecnologia!
 
 - HOJE  ESTUDO HTML.CSS.JAVA.PHP.JAVASCRIPT
 - ESTUDANDO JAVASCRIPT
